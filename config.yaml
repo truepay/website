@@ -41,4 +41,4 @@ params:
     subtitle: Para gerenciar seus recebíveis e pagar seus fornecedores
     image: illustrations/mockups/app-platform.png
     buttonText: Entre em Contato
-    buttonLink: "contato@truepay.com.br"
+    buttonLink: "mailto:contato@truepay.com.br"
