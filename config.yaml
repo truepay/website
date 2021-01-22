@@ -31,7 +31,7 @@ params:
     # Hero subtitle (optional)
     subtitle: Já imaginou não ter mais que antecipar recebíveis de cartão e ainda conseguir mais crédito com seus fornecedores?
     # Button text
-    buttontext: Entre em Contato
+    buttontext: Saiba mais
     # Where the main hero button links to
     buttonlink: "https://forms.gle/mmXU6kFBVfCoYK1W9"
     # Hero image (from static/images/___)
@@ -40,5 +40,5 @@ params:
     title: Uma plataforma
     subtitle: Para gerenciar seus recebíveis e pagar seus fornecedores
     image: illustrations/mockups/app-platform.png
-    buttonText: Entre em Contato
+    buttonText: Saiba mais
     buttonLink: "https://forms.gle/mmXU6kFBVfCoYK1W9"
