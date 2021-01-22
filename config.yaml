@@ -33,7 +33,7 @@ params:
     # Button text
     buttontext: Entre em Contato
     # Where the main hero button links to
-    buttonlink: "mailto:contato@truepay.com.br"
+    buttonlink: "https://forms.gle/mmXU6kFBVfCoYK1W9"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
   section3:
@@ -41,4 +41,4 @@ params:
     subtitle: Para gerenciar seus recebíveis e pagar seus fornecedores
     image: illustrations/mockups/app-platform.png
     buttonText: Entre em Contato
-    buttonLink: "mailto:contato@truepay.com.br"
+    buttonLink: "https://forms.gle/mmXU6kFBVfCoYK1W9"
